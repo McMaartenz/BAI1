@@ -1,0 +1,14 @@
+C:\Users\mcmaa\Downloads\Aftekenopdrachten2_wagons\Uitgangssituatie\BAI2\bin\Debug\netcoreapp3.1\BAI2.exe
+C:\Users\mcmaa\Downloads\Aftekenopdrachten2_wagons\Uitgangssituatie\BAI2\bin\Debug\netcoreapp3.1\BAI2.deps.json
+C:\Users\mcmaa\Downloads\Aftekenopdrachten2_wagons\Uitgangssituatie\BAI2\bin\Debug\netcoreapp3.1\BAI2.runtimeconfig.json
+C:\Users\mcmaa\Downloads\Aftekenopdrachten2_wagons\Uitgangssituatie\BAI2\bin\Debug\netcoreapp3.1\BAI2.runtimeconfig.dev.json
+C:\Users\mcmaa\Downloads\Aftekenopdrachten2_wagons\Uitgangssituatie\BAI2\bin\Debug\netcoreapp3.1\BAI2.dll
+C:\Users\mcmaa\Downloads\Aftekenopdrachten2_wagons\Uitgangssituatie\BAI2\bin\Debug\netcoreapp3.1\BAI2.pdb
+C:\Users\mcmaa\Downloads\Aftekenopdrachten2_wagons\Uitgangssituatie\BAI2\obj\Debug\netcoreapp3.1\BAI2.csproj.AssemblyReference.cache
+C:\Users\mcmaa\Downloads\Aftekenopdrachten2_wagons\Uitgangssituatie\BAI2\obj\Debug\netcoreapp3.1\BAI2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcmaa\Downloads\Aftekenopdrachten2_wagons\Uitgangssituatie\BAI2\obj\Debug\netcoreapp3.1\BAI2.AssemblyInfoInputs.cache
+C:\Users\mcmaa\Downloads\Aftekenopdrachten2_wagons\Uitgangssituatie\BAI2\obj\Debug\netcoreapp3.1\BAI2.AssemblyInfo.cs
+C:\Users\mcmaa\Downloads\Aftekenopdrachten2_wagons\Uitgangssituatie\BAI2\obj\Debug\netcoreapp3.1\BAI2.csproj.CoreCompileInputs.cache
+C:\Users\mcmaa\Downloads\Aftekenopdrachten2_wagons\Uitgangssituatie\BAI2\obj\Debug\netcoreapp3.1\BAI2.dll
+C:\Users\mcmaa\Downloads\Aftekenopdrachten2_wagons\Uitgangssituatie\BAI2\obj\Debug\netcoreapp3.1\BAI2.pdb
+C:\Users\mcmaa\Downloads\Aftekenopdrachten2_wagons\Uitgangssituatie\BAI2\obj\Debug\netcoreapp3.1\BAI2.genruntimeconfig.cache
